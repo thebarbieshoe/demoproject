@@ -1,3 +1,16 @@
 10,5,810,12,14,5,124,5,8
 4,5,8
 10,12,1
+3,2,1
+John smith,10,12,12
+  John smith,10,1,1
+John smith,1,12,1
+John smith,10,1,1
+John smith,1,12,8
+John smith,1,12,8
+John smith,1,12,8
+no hi five,10,12,1
+Pocahontas,10,1,
+Jane Doe,,,
+no hi five,,,
+Jane Doe,0,0,0

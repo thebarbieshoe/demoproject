@@ -3,6 +3,7 @@
 //variables for locating order.txt
 $document_root = $_SERVER['DOCUMENT_ROOT'];
 $path = "$document_root/orders/order.txt";
+$alert = '<div class="alert alert-%s" role="alert">%s</div>'; //%s hold place of strings
 
 //will print array
 //used for testing purposes
